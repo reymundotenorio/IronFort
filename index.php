@@ -7,7 +7,7 @@
 <!-- /Added by HTTrack -->
 
 <head>
-	<title>IronFort - Nicaragua</title>
+	<title>iRONfort - Nicaragua</title>
 
 	<!-- metas -->
 	<meta charset="utf-8">
@@ -103,27 +103,27 @@
 				<div class="grid-row">
 					<!-- services -->
 					<div class="block block-services block-services-3">
-						<div class="block-head block-head-1">CARACTERÍSTICAS DE IRONFORT<i class="fa fa-cogs"></i></div>
+						<div class="block-head block-head-1">CARACTERÍSTICAS DE iRONfort<i class="fa fa-cogs"></i></div>
 						<div class="block-cont">
 							<ul>
 								<li>
 									<a href="#"><i class="fa fa-glass"></i></a>
-									<h3>Diseños de elegante</h3>
-									<p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+									<h3>Diseños elegantes</h3>
+									<!-- <p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p> -->
 								</li>
 								<!--
 									-->
 								<li>
 									<a href="#"><i class="fa fa-tags"></i></a>
 									<h3>Precios favorables</h3>
-									<p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+									<!-- <p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p> -->
 								</li>
 								<!--
 									-->
 								<li>
 									<a href="#"><i class="fa fa-clock-o"></i></a>
-									<h3>Alta calidad y resistencia</h3>
-									<p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+									<h3>Calidad y resistencia</h3>
+									<!-- <p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tempor incididunt ut</p> -->
 								</li>
 								<!--
 									-->
@@ -149,10 +149,10 @@
 								<ul>
 									<li><i class="fa fa-share"></i>IDEA</li>
 									<li><i class="fa fa-share"></i>DISEÑO</li>
-									<li><i class="fa fa-share"></i>PRODUCCION</li>
-									<li><i class="fa fa-share"></i>DISTRIBUCION</li>
+									<li><i class="fa fa-share"></i>PRODUCCIÓN</li>
+									<li><i class="fa fa-share"></i>DISTRIBUCIÓN</li>
 								</ul>
-								<a href="#" class="button"><i class="fa fa-search-plus"></i>Aprenda mas<span>IronFort</span></a>
+								<a href="#" class="button"><i class="fa fa-search-plus"></i>Aprenda más<span>iRONfort</span></a>
 							</div>
 						</div>
 					</div>
@@ -306,7 +306,7 @@
 
 					<!-- recent posts -->
 					<div class="block block-recent-posts-2" style="background-image: url(pic/slideshow/item-1.jpg)">
-						<div class="block-head">Proyectos recientes<span>Trabajamos dia a dia para crear soluciones innovadoras que comodamente se adapten a su espacio en su hogar u oficina.</span></div>
+						<div class="block-head">Proyectos recientes<span>Trabajamos día a día para crear soluciones innovadoras las cuales comodamente se adapten a su espacio en su hogar u oficina.</span></div>
 						<ul>
 							<li>
 								<a href="blog-details.html" class="pic">
@@ -342,13 +342,13 @@
 								</div>
 							</li>
 						</ul>
-						<a href="#" class="button button-more">Mostrar mas</a>
+						<a href="#" class="button button-more">Mostrar más</a>
 					</div>
 					<!--/ recent posts -->
 
 					<!-- testimonials -->
 					<div class="block block-testimonials-3">
-						<div class="block-head">Clientes satisfechos de IronFort</div>
+						<div class="block-head">Clientes satisfechos de iRONfort</div>
 						<p>Porque su comodidad es nuestra prioridad</p>
 						<div class="block-cont">
 							<div class="clearfix">
@@ -357,7 +357,7 @@
 										<div>
 											<img src="pic/testimonials/item-12.jpg" width="130" height="180" alt="">
 											<h3>Tony Stark<span>Stark Industries</span></h3>
-											<p>Sus productos son tan innovadores que IronMan no quiere vengar la tierra por estar en BiComfort todo el dia.</p>
+											<p>Sus productos son tan innovadores que IronMan no quiere vengar la tierra por estar en BiComfort todo el día.</p>
 										</div>
 										<div>
 											<img src="pic/testimonials/item-16.jpg" width="130" height="180" alt="">
