@@ -845,8 +845,8 @@ $(function()
 	$('#price-filter').slider({
 		range: true,
 		min: 0,
-		max: 999,
-		values: [0, 600],
+		max: 30000,
+		values: [0, 15000],
 		slide: function(event, ui)
 		{
 			$('#price-filter-value-1').text(ui.values[0]);

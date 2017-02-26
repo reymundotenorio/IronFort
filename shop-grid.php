@@ -36,9 +36,9 @@
 				<div class="pic" style="background-image: url(pic/intro/catalog.jpg)"></div>
 
 				<div class="grid-row clearfix">
-					<div class="page-title">Shop</div>
-					<div class="page-subtitle">Welcome to Wego theme. Lets start your design here</div>
-					<div class="bread-crumbs"><a href="#">Home</a> - Shop - Grid</div>
+					<div class="page-title">Tienda</div>
+						<div class="page-subtitle">Bienvenido a iRONfort</div>
+					<div class="bread-crumbs"><a href="index.php">Inicio</a> - Tienda</div>
 				</div>
 			</div>
 			<!--/ page intro -->
@@ -48,7 +48,7 @@
 				<div class="page-content-section">
 					<div class="grid-row">
 						<!-- catalog toolbar -->
-						<div class="block block-catalog-toolbar clearfix">
+						<!-- <div class="block block-catalog-toolbar clearfix">
 							<div class="select">
 								<select>
 									<option value="0">Sort by: Default</option>
@@ -70,7 +70,7 @@
 							<div class="select">
 								<select>
 									<option value="0" disabled selected>Choose category</option>
-									<option value="1">Dress</option>
+									<option value="1">Mueble multifuncional</option>
 									<option value="2">Smartphone</option>
 									<option value="3">Laptop</option>
 									<option value="4">Accessories</option>
@@ -90,7 +90,7 @@
 									<option value="6">Purple</option>
 								</select>
 							</div>
-						</div>
+						</div> -->
 						<!--/ catalog toolbar -->
 
 						<!-- catalog grid -->
@@ -98,182 +98,182 @@
 							<ul>
 								<li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-1.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-1.png" width="268" height="137" alt="">
 											<div class="badge">Sale</div>
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:60%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-2.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-2.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:100%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-3.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-3.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:80%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-4.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-4.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:80%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-5.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-5.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:50%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-6.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-6.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:90%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-7.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-7.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:70%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-8.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-8.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:80%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-9.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-9.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:90%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-10.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-10.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:90%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-11.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-11.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:80%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li><!--
 								--><li>
 									<div class="inner">
-										<a href="#" class="pic">
-											<img src="pic/catalog-grid/item-12.jpg" width="268" height="300" alt="">
+										<a href="shop-details.php" class="pic">
+											<img src="pic/catalog-grid/item-12.png" width="268" height="137" alt="">
 										</a>
-										<h3><a href="#">Product Name Title Here</a></h3>
-										<p>Dress</p>
-										<div class="price">$99</div>
+										<h3><a href="#">BiComfort</a></h3>
+										<p>Mueble multifuncional</p>
+										<div class="price">C$ -</div>
 										<div class="rating"><div style="width:70%"></div></div>
 										<div class="actions">
-											<a href="#" class="more">More</a>
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="shop-details.php" class="more">Más</a>
+											<a href="shop-cart.php"><i class="fa fa-shopping-cart"></i>Agregar a carrito</a>
 										</div>
 									</div>
 								</li>

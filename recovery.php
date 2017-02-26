@@ -37,9 +37,9 @@
 				<div class="pic" style="background-image: url(pic/intro/features.jpg)"></div>
 
 				<div class="grid-row clearfix">
-					<div class="page-title">Login</div>
-					<div class="page-subtitle">Welcome to Wego theme. Lets start your design here</div>
-					<div class="bread-crumbs"><a href="#">Home</a> - Pages - Password recovery</div>
+					<div class="page-title">Recuperar contraseña</div>
+					<div class="page-subtitle">Bienvenido a iRONfort</div>
+					<div class="bread-crumbs"><a href="index.php">Inicio</a> - Recuperar contraseña</div>
 				</div>
 			</div>
 			<!--/ page intro -->
@@ -51,13 +51,13 @@
 						<div class="grid-col grid-col-8">
 							<!-- welcome -->
 							<div class="block block-welcome">
-								<h2>Welcome to Wego</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis eu mi et pellentesque. Curabitur vestibulum convallis orci, quis dapibus elit fringilla eget. Suspendisse posuere diam ut erat convallis, non dictum quam luctus.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis eu mi et pellentesque. Curabitur vestibulum convallis orci, quis dapibus elit fringilla eget. </p>
-								<ul>
-									<li><i class="fa fa-arrow-right"></i>Create an account</li>
-									<li><i class="fa fa-arrow-right"></i>Forgetton your username</li>
-									<li><i class="fa fa-arrow-right"></i>Forgetton your password</li>
-									<li><i class="fa fa-arrow-right"></i>Forgetton your password</li>
+								<h2>Bienvenido a iRONfort</h2>
+								<p>Creamos muebles multifuncionales de alta calidad al mejor precio, con diseños innovadores que satisfacen las necesidades básicas de descanso y recreación de las familias Nicaragüenses.</p>
+							 	<ul>
+									<li><i class="fa fa-arrow-right"></i>Diseños elegantes</li>
+									<li><i class="fa fa-arrow-right"></i>Precios favorables</li>
+									<li><i class="fa fa-arrow-right"></i>Calidad y resistencia</li>
+									<!-- <li><i class="fa fa-arrow-right"></i>Forgetton your password</li> -->
 								</ul>
 							</div>
 							<!--/ welcome -->
@@ -65,12 +65,12 @@
 						<div class="grid-col grid-col-4">
 							<!-- login -->
 							<div class="block block-login">
-								<div class="block-head">Forgot your password?</div>
-								<p>Enter your e-mail and we will send Account Details.</p>
+								<div class="block-head">Olvidó su contraseña?</div>
+								<p>Ingrese su correo electrónico y le enviaremos los detalles de su cuenta.</p>
 								<form action="#" class="block-cont">
-									<div class="input"><input type="text" placeholder="Your Email"><i class="fa fa-envelope"></i></div>
-									<button type="submit" class="button">Send Me Now</button>
-									<p><a href="#">Contact Online Support</a></p>
+									<div class="input"><input type="text" placeholder="Su correo electrónico"><i class="fa fa-envelope"></i></div>
+									<button type="submit" class="button">Enviar ahora</button>
+									<!-- <p><a href="#">Contact Online Support</a></p> -->
 								</form>
 							</div>
 							<!--/ login -->
@@ -81,7 +81,7 @@
 			<!--/ page content -->
 
 	<?php include_once "footer.html" ?>
-	
+
 	</body>
 
 <!-- Mirrored from wegodesign.net/wego-theme-themeforest-html-template/recovery.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Oct 2016 05:11:38 GMT -->

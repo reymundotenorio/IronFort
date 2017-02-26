@@ -52,9 +52,9 @@
 							<div class="block-cont clearfix">
 								<div class="grid-col grid-col-6">
 									<div class="owl-slideshow-2">
-									  <div><img src="pic/about/slide-4.jpg" width="570" height="345" alt=""></div>
-									  <div><img src="pic/about/slide-4.jpg" width="570" height="345" alt=""></div>
-									  <div><img src="pic/about/slide-4.jpg" width="570" height="345" alt=""></div>
+									  <div><img src="pic/about/BiComfort.png" width="570" height="345" alt=""></div>
+									  <div><img src="pic/about/BiComfort.png" width="570" height="345" alt=""></div>
+									  <div><img src="pic/about/BiComfort.png" width="570" height="345" alt=""></div>
 									</div>
 								</div>
 								<div class="grid-col grid-col-6">
@@ -69,7 +69,7 @@
 
 						<!-- capabilities -->
 						<div class="block block-capabilities-2">
-							<div class="block-head block-head-4">Wego Capabilities<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit</span></div>
+							<div class="block-head block-head-4">Características de iRONfort<span></span></div>
 							<ul>
 								<li>
 									<div class="knob">
@@ -174,7 +174,7 @@
 											</div>
 										</li>
 										<li>
-											<a href="#"><img src="pic/team-grid/item-7.jpg" width="266" height="216" alt=""></a>
+											<a href="#"><img src="pic/team-grid/Nuvia.jpg" width="266" height="324" alt=""></a>
 											<div class="inner">
 												<h3><a href="#">Nuvia Sánchez</a></h3>
 												<h4>CEO</h4>
@@ -188,7 +188,7 @@
 											</div>
 										</li>
 										<li>
-											<a href="#"><img src="pic/team-grid/item-6.jpg" width="266" height="216" alt=""></a>
+											<a href="#"><img src="pic/team-grid/Jeeson.jpg" width="266" height="455" alt=""></a>
 											<div class="inner">
 												<h3><a href="#">Jeeson López</a></h3>
 												<h4>CEO</h4>

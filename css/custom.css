@@ -832,3 +832,9 @@ a {
 .widget-top-products .pic i {
   background-color: #c3512f;
 }
+
+@media screen and (max-width: 390px) { /* phone */
+  .logo img {
+    width: 70%;
+  }
+}
